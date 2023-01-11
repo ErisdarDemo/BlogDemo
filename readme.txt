@@ -7,6 +7,16 @@
 @section 	Notes
 	@note 	README.md would be pretty but this is clean
 
-@section 	Opens
-	push plenact/readme.txt updates
+@section 	Blog Sequence
+	I - Hot Glue Mess
+	
+	II - Hot Glue Thingiviverse
+	
+	...
+	
+	III - Install Thingiviverse Custom
+	IV - Install Custom to Thingiverse & Publish
 
+	... (wknd)
+	
+	Centennial Blog
