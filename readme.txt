@@ -13,3 +13,12 @@
 @section 	Opens
 	push plenact/readme.txt updates
 
+	//Upcoming
+	- Next Portfolio Project
+		Full Cycle Altium Board, using a blog to capture it
+		Share w/Zach on completion
+		Shows your FULL dev process (people aren't used to this)
+	
+	//Demos
+	- BT Char Demos
+	- OpenWRT
